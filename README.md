@@ -1,16 +1,3 @@
-# splash_screen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Splash Screen</h1>
+<h3>ScreenShot</h3>
+<img width="327" alt="Screenshot 2023-07-20 at 20 34 26" src="https://github.com/ishupeiris/splash_screen/assets/97585497/8d4720c4-31be-4048-9df0-0d91a9afc029">
